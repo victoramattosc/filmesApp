@@ -26,7 +26,11 @@
   text-decoration: none;
 }
 
-ion-thumbnail{
-  width: 100px;
+ion-chip {
+  box-shadow: 4px 2px 5px;
+}
+
+ion-thumbnail {
+  width: 75px;
   height: fit-content;
 }
